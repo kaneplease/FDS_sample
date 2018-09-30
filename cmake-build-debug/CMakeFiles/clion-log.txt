@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/hattoriatsuki/CLionProjects/shock_wave_tube
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/hattoriatsuki/CLionProjects/shock_wave_tube/cmake-build-debug
