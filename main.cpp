@@ -8,7 +8,7 @@ using namespace Eigen;
 
 int main() {
     //初期条件
-    const int nstep = 4000;
+    const int nstep = 8000;
     const int n = 100;   //格子点数
     const double dx = 0.1;
     const double dt = 0.0005;
